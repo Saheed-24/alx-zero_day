@@ -1,1 +1,1 @@
-My second git project
+I'm now a ALX Student
